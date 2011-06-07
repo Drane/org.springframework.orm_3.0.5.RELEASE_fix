@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: org.springframework.orm_3.0.5.RELEASE_fix
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.prefabosft.org.springframework.orm.fix
+Fragment-Host: org.springframework.orm;version="[3.0.5.RELEASE,3.0.5.RELEASE]"
+Import-Bundle: com.springsource.javax.persistence;version="[2.0.0.Beta1,2.0.0.Beta1]"
+Excluded-Imports: com.springsource.javax.persistence;version="[1.0.0,1.0.0]"
+ 
